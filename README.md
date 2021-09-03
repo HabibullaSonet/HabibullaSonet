@@ -8,6 +8,8 @@ Hey y'all, I'm currently pursuing a bachelor's degree in Software Engineering an
 
 Skills: NODE JS / REACT / JS / HTML / CSS
 
+![GitHub followers](https://img.shields.io/github/followers/habibullasonet?label=Github&logo=Github&style=for-the-badge)
+
 ![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Instagram-habibullasonet?style=for-the-badge&logo=instagram&logoColor=white)
