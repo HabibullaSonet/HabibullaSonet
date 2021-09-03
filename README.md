@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Habibulla Sonet
 ![](https://user-images.githubusercontent.com/82251942/131951544-d191bdc7-49dc-4881-be7e-9fc5b406380c.jpg)
+### Hi there 👋, my name is Habibulla Sonet
 
 Hey y'all, I'm currently pursuing a bachelor's degree in Software Engineering and preparing as a Full-Stack Software Developer.
 
