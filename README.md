@@ -14,6 +14,8 @@ Skills: NODE JS / REACT / JS / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibullasonet&show_icons=true&theme=slateorange&title_color=ffc600&icon_color=ffc600)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibullasonet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=habibullasonet)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=habibullasonet)  
