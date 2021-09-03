@@ -1,3 +1,4 @@
+![Software Development Cover](https://user-images.githubusercontent.com/82251942/131951544-d191bdc7-49dc-4881-be7e-9fc5b406380c.jpg)
 - 👋 Hi, I’m @HabibullaSonet
 - 👀 I’m interested in ... Learning new technologys
 - 🌱 I’m currently learning ... JavaScript
