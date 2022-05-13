@@ -27,8 +27,6 @@ Currently pursuing a bachelor's degree in Software Engineering and preparing as 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibullasonet&show_icons=true&theme=slateorange&title_color=ffc600&icon_color=ffc600)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=habibullasonet)  
 
 ![Profile views](https://gpvc.arturio.dev/habibullasonet)  
