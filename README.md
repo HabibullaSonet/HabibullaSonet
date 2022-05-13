@@ -25,8 +25,6 @@ Currently pursuing a bachelor's degree in Software Engineering and preparing as 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibullasonet&show_icons=true&theme=slateorange&title_color=ffc600&icon_color=ffc600)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=habibullasonet)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibullasonet&show_icons=true&theme=slateorange&title_color=ffc600&icon_color=ffc600) 
 
 ![Profile views](https://gpvc.arturio.dev/habibullasonet)  
