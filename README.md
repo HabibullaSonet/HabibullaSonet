@@ -9,7 +9,7 @@ Engineering production-grade AI systems and scalable backend architectures from 
 
 | Layer | Technologies & Focus |
 | :--- | :--- |
-| **Foundations** | Python (Internals & Memory Model), Data Structures & Algorithms, C, SQL |
+| **Foundations** | Python (Internals & Memory Model), Data Structures & Algorithms, SQL |
 | **Backend & Infra** | FastAPI, Asyncio, PostgreSQL, Docker, Linux, Git |
 | **AI & Agentic Systems** | RAG Architectures, Qdrant (Vector DB), LangGraph, MCP, PyTorch, vLLM |
 
